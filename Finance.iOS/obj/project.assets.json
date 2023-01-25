@@ -720,7 +720,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Webcreek IT\\.nuget\\packages\\": {},
+    "C:\\Users\\tcurichumbi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -729,7 +729,7 @@
       "projectUniqueName": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance.iOS\\Finance.iOS.csproj",
       "projectName": "Finance.iOS",
       "projectPath": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance.iOS\\Finance.iOS.csproj",
-      "packagesPath": "C:\\Users\\Webcreek IT\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\tcurichumbi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
@@ -737,7 +737,7 @@
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Webcreek IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tcurichumbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance.Android\\Finance.Android.csproj",
         "projectName": "Finance.Android",
         "projectPath": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance.Android\\Finance.Android.csproj",
-        "packagesPath": "C:\\Users\\Webcreek IT\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\tcurichumbi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Webcreek IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tcurichumbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -76,14 +76,14 @@
         "projectUniqueName": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance\\Finance.csproj",
         "projectName": "Finance",
         "projectPath": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance\\Finance.csproj",
-        "packagesPath": "C:\\Users\\Webcreek IT\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\tcurichumbi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Webcreek IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tcurichumbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

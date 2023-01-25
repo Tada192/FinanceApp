@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XhTAyuFbu2k86CuaeVAwc9oH6KFuXF5mXcCGnxzjip/Kmn19zKpeO+Xpi+QLSg2QpP8yVdvnAReWnBfHqZf7tg==",
+  "dgSpecHash": "Bx0j3zn7+JjP6W9ZYf6o8uh70AXklWFCk3476kTU5TxrmYNjzzIagduQEsevVdWyf3wptLPTsr+CucM6bUpn8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\tcurichumbi\\Downloads\\Finance\\Finance\\Finance.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Webcreek IT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Webcreek IT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Webcreek IT\\.nuget\\packages\\xamarin.forms\\3.1.0.697729\\xamarin.forms.3.1.0.697729.nupkg.sha512"
+    "C:\\Users\\tcurichumbi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tcurichumbi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tcurichumbi\\.nuget\\packages\\xamarin.forms\\3.1.0.697729\\xamarin.forms.3.1.0.697729.nupkg.sha512"
   ],
   "logs": []
 }

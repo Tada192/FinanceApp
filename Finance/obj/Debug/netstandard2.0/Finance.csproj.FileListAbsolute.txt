@@ -1,0 +1,14 @@
+C:\Users\tcurichumbi\Downloads\Finance\Finance\bin\Debug\netstandard2.0\Finance.deps.json
+C:\Users\tcurichumbi\Downloads\Finance\Finance\bin\Debug\netstandard2.0\Finance.dll
+C:\Users\tcurichumbi\Downloads\Finance\Finance\bin\Debug\netstandard2.0\Finance.pdb
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\Finance.csproj.AssemblyReference.cache
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\Finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\View\PostPage.xaml.g.cs
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfoInputs.cache
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfo.cs
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\Finance.csproj.CoreCompileInputs.cache
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\Finance.dll
+C:\Users\tcurichumbi\Downloads\Finance\Finance\obj\Debug\netstandard2.0\Finance.pdb
